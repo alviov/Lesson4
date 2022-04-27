@@ -1,0 +1,10 @@
+C:\Users\alvio\source\repos\Lesson4\Lesson4\bin\Debug\netcoreapp1.1\Lesson4.deps.json
+C:\Users\alvio\source\repos\Lesson4\Lesson4\bin\Debug\netcoreapp1.1\Lesson4.runtimeconfig.json
+C:\Users\alvio\source\repos\Lesson4\Lesson4\bin\Debug\netcoreapp1.1\Lesson4.runtimeconfig.dev.json
+C:\Users\alvio\source\repos\Lesson4\Lesson4\bin\Debug\netcoreapp1.1\Lesson4.dll
+C:\Users\alvio\source\repos\Lesson4\Lesson4\bin\Debug\netcoreapp1.1\Lesson4.pdb
+C:\Users\alvio\source\repos\Lesson4\Lesson4\obj\Debug\netcoreapp1.1\Lesson4.csprojResolveAssemblyReference.cache
+C:\Users\alvio\source\repos\Lesson4\Lesson4\obj\Debug\netcoreapp1.1\Lesson4.csproj.CoreCompileInputs.cache
+C:\Users\alvio\source\repos\Lesson4\Lesson4\obj\Debug\netcoreapp1.1\Lesson4.AssemblyInfo.cs
+C:\Users\alvio\source\repos\Lesson4\Lesson4\obj\Debug\netcoreapp1.1\Lesson4.dll
+C:\Users\alvio\source\repos\Lesson4\Lesson4\obj\Debug\netcoreapp1.1\Lesson4.pdb
